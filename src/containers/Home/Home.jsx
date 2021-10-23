@@ -133,9 +133,7 @@ const Home = () => {
 					const mafrashsmall = [];
 					const icecap = [];
 					const babyhamdmade = [];
-					const handmade = [];
-					const stanlissteal = [];
-
+					
 					products.map((product, index) => {
 						if (product.projectType === Bag) bag.push(product);
 						else if (product.projectType === Lacloc) lacloc.push(product);
