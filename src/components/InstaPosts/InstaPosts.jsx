@@ -49,7 +49,6 @@ const InstaPosts = () => {
 									href={post.url}
 									className={classes.postImgWrapper}
 									target="_blank"
-									rel="noopener noreferrer"
 									aria-label="Facebook"
 								>
 									<LazyLoadImage
