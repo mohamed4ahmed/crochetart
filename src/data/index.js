@@ -44,7 +44,7 @@ export const online = [
     header: "ORDER NOW",
     description:
     "Order Hamdmade Crochet online and CROCHET ART's brings it to you with 'speedy' delivery service",
-    linkBtn: "tel:+201019955700",   //URL Link
+    linkBtn: "tel:+201093635346",   //URL Link
     img: grabImg,
   },
   {
@@ -52,7 +52,7 @@ export const online = [
     header: "ORDER NOW",
     description:
     "Order Hamdmade Crochet online and CROCHET ART's brings it to your door with 'speedy' delivery service",
-    linkBtn: "tel:+201019955700",     //URL Link
+    linkBtn: "tel:+201093635346",     //URL Link
     img: nowImg,
   },
   {
@@ -60,7 +60,7 @@ export const online = [
     header: "ORDER NOW",
     description:
     "Order Hamdmade Crochet online and CROCHET ART's brings it to your door with 'speedy' delivery service",
-    linkBtn: "tel:+201019955700", //URL Link
+    linkBtn: "tel:+201093635346", //URL Link
     img: loshipImg,
   },
 ];

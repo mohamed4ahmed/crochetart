@@ -55,7 +55,7 @@ const SingleProduct = ({ product, special }) => {
 										<p className={classes.phone}>
 											{" "}
 											Call for delivery:{" "}
-											<a href="tel:+201019955700">01019955700</a>
+											<a href="tel:+201093635346">01093635346</a>
 										</p>
 									</div>
 								</div>

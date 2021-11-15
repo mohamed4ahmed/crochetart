@@ -4,7 +4,7 @@ import { online } from "../../data";
 const Loship = () => {
   useEffect(() => {
     document.title = "Our stores - Crochet Art - For Handmade";
-    window.location = <a href="tel:+201019955700">01019955700</a>;  //Link
+    window.location = <a href="tel:+201093635346">01093635346</a>;  //Link
   }, []);
   return (
     <>

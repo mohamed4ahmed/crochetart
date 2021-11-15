@@ -50,6 +50,7 @@ const InstaPosts = () => {
 									className={classes.postImgWrapper}
 									target="_blank"
 									rel="noopener noreferrer"
+									aria-label="Facebook"
 								>
 									<LazyLoadImage
 										src={post.mainImage.asset.url}

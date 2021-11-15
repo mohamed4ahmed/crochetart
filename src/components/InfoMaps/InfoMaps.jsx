@@ -2,6 +2,9 @@ import { Button, Container, Typography } from "@material-ui/core";
 import React from "react";
 import { useStyles } from "./InfoMaps.elements";
 import { SiGooglemaps } from "react-icons/si";
+import { FaWhatsapp , FaPhone} from "react-icons/fa";
+import { MdEmail} from "react-icons/md";
+
 import Maps from "./Maps/Maps";
 
 const InfoMaps = () => {
@@ -20,11 +23,16 @@ const InfoMaps = () => {
 								Address: Elmahala-Elkoubra - Gharbia, Egypt
 								</Typography>
 								<Typography variant="h6" className={classes.subTitle}>
-								Phone number: <a href="tel:+201019955700">+201019955700</a>   <a href="tel:+201226598444">+201226598444</a>
+
+								Phone number: <a href="tel:+201093635346"><FaPhone /> +201093635346</a>   <a href="tel:+201226598444"><FaPhone /> +201226598444</a>
 								</Typography>
-								
+
 								<Typography variant="h6" className={classes.subTitle}>
-								 Email: <a href="mailto:mohamed.ahmed8412000@gmail.com">mohamed.ahmed8412000@gmail.com</a>
+								Email: <a href="mailto:mohamed.ahmed8412000@gmail.com"><MdEmail /> mohamed.ahmed8412000@gmail.com</a>
+								</Typography>
+
+								<Typography variant="h6" className={classes.subTitle}>
+								<FaWhatsapp /> WhatsApp: <a href="whatsapp://send?text=test&phone=+201093635346"><FaWhatsapp /> </a>
 								</Typography>
 							</div>
 							<a

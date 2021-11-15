@@ -3,8 +3,8 @@ import iconUrl from "../../../assets/img/logo-circle.png";
 
 const iconSmart = new L.Icon({
 	iconUrl: iconUrl,
-	iconSize: [64, 64],
-	iconAnchor: [32, 64],
+	iconSize: [32, 32],
+	iconAnchor: [32, 32],
 	shadowUrl: null,
 	shadowSize: null,
 	shadowAnchor: null,
