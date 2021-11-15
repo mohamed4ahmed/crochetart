@@ -24,7 +24,7 @@ const InfoMaps = () => {
 								</Typography>
 								<Typography variant="h6" className={classes.subTitle}>
 
-								Phone number: <a href="tel:+201093635346"><FaPhone /> +201093635346</a>   <a href="tel:+201226598444"><FaPhone /> +201226598444</a>
+								Phone number: <a href="tel:+201093635346"><FaPhone /> +201093635346</a>   
 								</Typography>
 
 								<Typography variant="h6" className={classes.subTitle}>
@@ -32,7 +32,7 @@ const InfoMaps = () => {
 								</Typography>
 
 								<Typography variant="h6" className={classes.subTitle}>
-								<FaWhatsapp /> WhatsApp: <a href="whatsapp://send?text=test&phone=+201093635346"><FaWhatsapp /> </a>
+								<FaWhatsapp /> WhatsApp: <a href="whatsapp://send?text=test&phone=+201093635346"><FaWhatsapp /> WhatsApp</a>
 								</Typography>
 							</div>
 							<a
