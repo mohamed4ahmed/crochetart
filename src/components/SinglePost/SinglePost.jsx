@@ -27,7 +27,7 @@ const SinglePost = ({ post, recentPosts }) => {
 
 	useEffect(() => {
 		if (post) {
-			document.title = `${post.title} - Smart Beam`;
+			document.title = `${post.title} - Crochet Art`;
 		}
 	}, [post]);
 
